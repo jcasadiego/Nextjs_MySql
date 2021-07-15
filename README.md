@@ -24,8 +24,10 @@ MariaDB Current Version: 10.5.11
 
 _Clone the repository: _
 
-_git clone _
-_cd _
+```
+git clone https://github.com/jcasadiego/Nextjs_MySql.git
+cd Nextjs_MySql 
+```
 
 _Cree su Database con los siguientes script, dentro de su consola de su manejador de bases de datos: _
 
