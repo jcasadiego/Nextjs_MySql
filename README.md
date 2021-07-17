@@ -32,7 +32,7 @@ cd Nextjs_MySql
 _Cree su Database con los siguientes script, dentro de su consola de su manejador de bases de datos: _
 
 ```
-CREATE productos;
+CREATE DATABASE productos;
 ```
 _Entre en el archivo productos.sql ubicado en "nextjs-mysql/database" copie y pegue los script adentro del archivo, ejecutelos para crear las tables con su contenido de prueba_
 
